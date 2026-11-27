@@ -1,2 +1,16 @@
 
 best_resnet101.pth
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Virtual environments
+venv/
+.env
